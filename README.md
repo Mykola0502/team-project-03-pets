@@ -1,7 +1,11 @@
 # Командний fullstack проект групи "MINUS 1" - YourPet
 
-Лінк на код бекенду https://github.com/vlmakh/goit-team-project-03-back
-Документація бекенду https://yourpet.onrender.com/api-docs/
+Інші сторінки сайту:
+https://team-project-03-pets-git-main-mykola0502.vercel.app/
+https://team-project-03-pets-mykola0502.vercel.app/
+
+Лінк на код бекенду: https://github.com/Mykola0502/team-project-03-pets-backend
+Документація бекенду: https://pets-back-end.onrender.com/api-docs/
 
 Використані технології:
 
